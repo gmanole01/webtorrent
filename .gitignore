@@ -3,3 +3,10 @@ package-lock.json
 webtorrent.debug.js
 sw.debug.js
 pnpm-lock.yaml
+
+.DS_Store
+
+.vscode/
+.idea/
+
+dist/

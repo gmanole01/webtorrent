@@ -5,3 +5,10 @@ test/
 
 .airtap.yml
 CONTRIBUTING.md
+
+rollup.config.js
+version.cjs
+index.js
+lib/
+babel.config.js
+dist/
